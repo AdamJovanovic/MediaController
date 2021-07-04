@@ -106,7 +106,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BAGRSVNF
 
 [Document5]
-DocumentPath=LEDLadder.SchDoc
+DocumentPath=LEDLadderSchem.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -121,6 +121,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VYZDJEZZ
+
+[Document6]
+DocumentPath=SwitchMatrixSchem.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IEASITRJ
 
 [Configuration1]
 Name=Sources
