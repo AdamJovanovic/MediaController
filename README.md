@@ -2,7 +2,7 @@
 
 # Requirements
 
-TO BE TYPED UP
+I require a hardware media controller which I can use to
 
 # Folder structure
 
@@ -38,3 +38,12 @@ As I complete sections of this project, I will update this flowchart. This shoul
 
 ![MediaControllerProjectFlow](/assets/MediaControllerProjectFlow.jpeg)
 Improvement: Convert this to a mermaid diagram to reduce workload when updating progress.
+
+## What I would do differently
+
+### Schematic and Footprint Libraries
+
+Every component in this project has been added in individually. This was not a difficult task, however it took up a large portion of the schematic capture time. </br>
+In hindsight, I did not need to create separate footprints for passive components with identical package-sizes. </br>
+Community-sourced component libraries would also have sped up the process considerably. </br>
+Using UltraLibrarian and SnapEda provided me with footprints, as well as a large chunk of un-necessary dimensioning text.
