@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: X:\Electronics\media-controller\pcb_design\MediaControllerPCB.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=mediacontrollerpcb-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=mediacontrollerpcb-slotholes.txt|DrillLayers=gtl,gbl
